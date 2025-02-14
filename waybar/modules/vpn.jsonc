@@ -1,0 +1,5 @@
+"custom/vpn": {
+  "format": "{}",
+  "exec": "curl -s ifconfig.me",
+  "interval": 10
+ },
