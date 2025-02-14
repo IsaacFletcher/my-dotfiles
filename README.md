@@ -1,12 +1,12 @@
 --------------------------------
 Requirements
 --------------------------------
-hyprland
-hyprlock
-wlogout
-hyprpaper
-rofi
-waybar
+hyprland\n
+hyprlock\n
+wlogout\n
+hyprpaper\n
+rofi\n
+waybar\n
 
 -------------------------
 Setup
