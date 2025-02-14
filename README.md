@@ -1,5 +1,5 @@
 --------------------------------
-----------Requirements----------
+Requirements
 --------------------------------
 hyprland
 hyprlock
@@ -9,6 +9,6 @@ rofi
 waybar
 
 -------------------------
-----------Setup----------
+Setup
 -------------------------
 Just copy the folders into your .config folder
